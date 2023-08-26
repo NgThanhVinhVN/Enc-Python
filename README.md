@@ -33,4 +33,4 @@ ls
 python enc.py
 ```
 
-## Thanks For Using This Tool <span style='font-size:45px;'>&#128536;</span> <span style='font-size:45px;'>&#128525;</span>
+## Thanks For Using This Tool 
